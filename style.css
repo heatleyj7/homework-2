@@ -269,21 +269,21 @@ a:hover {
   height: 600px;  
   scroll-snap-stop: always;
   overscroll-behavior: contain; 
-  scroll-margin-top: 75px;
+  scroll-margin-top: 74px;
 }
 .contact-area  {
   background: #f5f5f592; 
   color: #90806F;
-  scroll-margin-top: 75px;
+  scroll-margin-top: 74px;
 }
 .about-area, .portfolio-area {
   background-color: #90806FCF;
   color: #f5f5f5cf;
-  scroll-margin-top: 75px;
+  scroll-margin-top: 74px;
 }
 .portfolio-area {
   height: 800px; 
-  scroll-margin-top: 75px;
+  scroll-margin-top: 74px;
 }
 .footer-area {
   display: flex; 
@@ -314,7 +314,7 @@ h1 {
 h3 {
   font-size: 18px; 
   font-family: Arial, Helvetica, sans-serif; 
-  align-content: center; 
+  text-align: left; 
 }
 /* In about and contact */
 p {
